@@ -27,7 +27,15 @@ img {
 .categoria-curtasdeRomance {
     display: flex;
     overflow-x: auto;
-    gap: 40xp;
+    gap: 30xp;
+    display: block;
+    unicode-bidi: isolate;
+}
+
+.categoria-curtasdrama {
+    display: flex;
+    overflow-x: auto;
+    gap: 30xp;
     display: block;
     unicode-bidi: isolate;
 }
