@@ -29,7 +29,7 @@ section {
     unicode-bidi: isolate;
 }
 
-.categoria-curtas {
+.categoria-curtasdeRomance {
     display: flex;
     overflow-x: auto;
     gap: 40xp;
