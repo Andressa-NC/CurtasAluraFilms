@@ -28,8 +28,7 @@ img {
     display: flex;
     overflow-x: auto;
     gap: 30xp;
-    display: block;
-    unicode-bidi: isolate;
+    border-bottom: solid 2px rgb(24, 122, 228);
 }
 
 .categoria-curtasdrama {
