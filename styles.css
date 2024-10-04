@@ -32,4 +32,5 @@ section {
 .categoria-curtas {
     display: flex;
     overflow-x: auto;
+    gap: 10xp
 }
