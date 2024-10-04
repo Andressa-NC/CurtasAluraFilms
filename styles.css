@@ -24,13 +24,10 @@ img {
     height: 200px;
 }
 
-section {
-    display: block;
-    unicode-bidi: isolate;
-}
-
 .categoria-curtasdeRomance {
     display: flex;
     overflow-x: auto;
     gap: 40xp;
+    display: block;
+    unicode-bidi: isolate;
 }
