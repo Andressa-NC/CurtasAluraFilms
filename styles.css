@@ -28,3 +28,8 @@ section {
     display: block;
     unicode-bidi: isolate;
 }
+
+.categoria-curtas {
+    display: flex;
+    overflow-x: auto;
+}
