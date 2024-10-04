@@ -37,3 +37,10 @@ img {
     gap: 30xp;
     border-bottom: solid 2px rgb(24, 122, 228);
 }
+
+.categoria-curtasFantasiaeAnimação {
+    display: flex;
+    overflow-x: auto;
+    gap: 30xp;
+    border-bottom: solid 2px rgb(24, 122, 228);
+}
