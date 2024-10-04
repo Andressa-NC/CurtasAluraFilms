@@ -27,7 +27,7 @@ img {
 .categoria-curtasdeRomance {
     display: flex;
     overflow-x: auto;
-    gap: 30xp;
+    gap: 20px;
     border-bottom: solid 2px rgb(24, 122, 228);
 }
 
@@ -35,6 +35,5 @@ img {
     display: flex;
     overflow-x: auto;
     gap: 30xp;
-    display: block;
-    unicode-bidi: isolate;
+    border-bottom: solid 2px rgb(24, 122, 228);
 }
