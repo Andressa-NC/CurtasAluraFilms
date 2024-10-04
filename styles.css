@@ -20,6 +20,10 @@ section {
     justify-content: center;
 }
 
+img {
+    height: 200px;
+}
+
 section {
     display: block;
     unicode-bidi: isolate;
