@@ -1,15 +1,20 @@
 body {
-    color: white;
-    background: black;
+    background: linear-gradient(135deg, #00BFFF, #800080, #FF69B4);
+    color: white; 
+    font-family: 'Merriweather', serif; 
     margin: 7px;
-    font-family: 'Merriweather', serif;
     font-size: 16px; 
     line-height: 1.5; 
 }
 
+h1, h2 {
+    color: white; 
+}
+    
+
 h1, h2, h3 {
-    font-family: 'Merriweather', serif; /* Para os títulos também */
-    font-weight: 700; /* Negrito para os títulos */
+    font-family: 'Merriweather', serif; 
+    font-weight: 700; 
 }
 
 
