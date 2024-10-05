@@ -2,7 +2,16 @@ body {
     color: white;
     background: black;
     margin: 7px;
+    font-family: 'Merriweather', serif;
+    font-size: 16px; 
+    line-height: 1.5; 
 }
+
+h1, h2, h3 {
+    font-family: 'Merriweather', serif; /* Para os títulos também */
+    font-weight: 700; /* Negrito para os títulos */
+}
+
 
 header {
     border-bottom: solid 2px rgb(42, 122, 228);
