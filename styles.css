@@ -34,11 +34,11 @@ img {
 .categoria-curtasdrama {
     display: flex;
     overflow-x: auto;
-    gap: 30xp;
+    gap: 40xp;
     border-bottom: solid 1px rgb(24, 122, 228);
 }
 
-.categoria-curtaFantasiaeAnimação {
+.Categoria-curtaFantasiaeAnimação {
     display: flex;
     overflow-x: auto;
     gap: 30xp;
