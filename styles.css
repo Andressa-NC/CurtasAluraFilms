@@ -24,21 +24,21 @@ img {
     height: 200px;
 }
 
-.categoria-curtasdeRomance {
+.categoria-curtas-de-Romance {
     display: flex;
     overflow-x: auto;
     gap: 20px;
     border-bottom: solid 1px rgb(24, 122, 228);
 }
 
-.categoria-curtasdrama {
+.categoria-curtas-drama {
     display: flex;
     overflow-x: auto;
     gap: 40xp;
     border-bottom: solid 1px rgb(24, 122, 228);
 }
 
-.Categoria-curtaFantasiaeAnimação {
+.Categoria-curta-Fantasia-Animação {
     display: flex;
     overflow-x: auto;
     gap: 30xp;
