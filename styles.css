@@ -29,7 +29,7 @@ header {
 }
 
 section {
-    background: black;
+    background: linear-gradient(135deg, #00BFFF, #800080, #FF69B4);
     color: white;
     border-bottom: solid 2px rgb(24, 122, 228);
     padding-bottom: 80px;
